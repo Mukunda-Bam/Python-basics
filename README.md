@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mukunda-python.
-I am little confused about what to learn, start with python or javascript.
+- 👋 Hi, I’m @Mukunda-Javascript-python.
+n, started with python or now learning javascript.
 - 👀 I’m interested in web development, data structures, alogorithm, and solving real world problems.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything related to web, app, data.
 - 📫 How to reach me ...bammukunda1@gmail.com
 
