@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Mukunda-Javascript.
 - HTML 30% and CSS 20% , Javascript 70%
 - Python
-- 👀 I’m interested in web development, data structures, alogorithm, and solving real world problems.
-- 🌱 I’m currently learning javascript
+- 👀 Web development
+-  data structures, alogorithm, and solving real world problems.
+- 🌱 Learning a never ending
 - 💞️ I’m looking to collaborate on anything related to web, app, data.
 - 📫 How to reach me ...bammukunda1@gmail.com
 
