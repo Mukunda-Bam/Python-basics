@@ -3,7 +3,7 @@
 - Python
 - 👀 Web development
 -  data structures, alogorithm, and solving real world problems.
-- 🌱 Learning a never ending
+- 🌱 Learning to grow and impact
 - 💞️ I’m looking to collaborate on anything related to web, app, data.
 - 📫 How to reach me ...bammukunda1@gmail.com
 
