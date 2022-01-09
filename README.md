@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Mukunda-Javascript.
-n, started with python or now learning javascript.
+- HTML and CSS
+n, started with python, now learning javascript.
 - 👀 I’m interested in web development, data structures, alogorithm, and solving real world problems.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything related to web, app, data.
