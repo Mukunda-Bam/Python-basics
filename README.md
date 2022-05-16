@@ -1,1 +1,1 @@
-practice of python fundamental concepts
+Practice of python fundamental concepts.
